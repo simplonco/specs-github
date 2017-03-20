@@ -31,5 +31,8 @@ Afin de garder les repos communs cleans, fork les repos que tu comptes utiliser 
 
 Tu peux aussi utiliser le système de team et attribuer des repos à ta team.
 
-1. ![team](team.png)
-2. ![add-repo](add-repo.png)
+1. Les teams simplon.
+![team](team.png)
+
+2. Ajouter un repo à votre team
+![add-repo](add-repo.png)
