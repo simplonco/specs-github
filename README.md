@@ -3,7 +3,7 @@
 Tu es formateur chez Simplon et ne sais pas comment utiliser efficacement l'organisation github ?
 Ce guide est pour toi !
 
-### Je cherche du contenu
+## Je cherche du contenu
 
 L’organisation Simplon contient **500 repositories** couvrant beaucoup de sujets différents.
 
@@ -13,7 +13,7 @@ Mais nous avons aussi un **système de tags**, qui te permet de faire des recher
 
 ![recherche](find.png)
 
-### Je veux créer du contenu
+## Je veux créer du contenu
 
 1. Comment nommer mon projet ?
   	+ On t’invite à suivre le même format pour nommer tes projets que celui spécifié plus haut : {techno}-{format}-{nom}.
@@ -25,7 +25,7 @@ Mais nous avons aussi un **système de tags**, qui te permet de faire des recher
 
 **exemples de tags** :  eval mysql socket
 
-### Je veux inviter mes apprenants à créer du contenu
+## Je veux inviter mes apprenants à créer du contenu
 
 Afin de garder les repos communs cleans, fork les repos que tu comptes utiliser et sur lesquels tu souhaites faire participer tes apprenants. Ils pourront donc faire des pull-request sur ton fork.
 
@@ -36,3 +36,10 @@ Tu peux aussi utiliser le système de team et attribuer des repos à ta team.
 
 2. Ajouter un repo à votre team
 ![add-repo](add-repo.png)
+
+## Ressources externes
+
+Allez jeter un oeil !
+
++ https://guides.github.com/
++ https://github.com/explore
